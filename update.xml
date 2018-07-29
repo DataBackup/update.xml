@@ -1,11 +1,11 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="TestApp"> 
-        <version>3.0.0.0</version> 
+        <version>4.0.0.0</version> 
         <url>https://www.dropbox.com/s/n28d575rp6lmk1y/TestApp.exe?dl=1</url> 
         <fileName>TestApp.exe</fileName> 
         <md5>A5FACDBDD18CB5CEAB8213568600FA22</md5>
-        <description>Update: 06/19/2014:
+        <description>Update: 29/07/2018:
         1. Added notification message when the current version is already the latest.</description> 
         <launchArgs></launchArgs> 
     </update> 
